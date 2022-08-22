@@ -1,8 +1,14 @@
 {
   "name": "renaissance-commons-frontend",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
+  "license": "MIT",
+  "description": "Lib of commons components",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnaBerg/renaissance-commons-frontend.git"
+  },
   "dependencies": {
     "@apollo/client": "^3.6.9",
     "@emotion/react": "11.10.0",
